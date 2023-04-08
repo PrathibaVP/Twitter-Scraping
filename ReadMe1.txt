@@ -1,3 +1,22 @@
+=== Python Project ===
+Twitter Scraper
+
+=== Project Title === 
+
+Twitter Scraping
+
+=== Skills take away From This Project ===
+
+Python scripting, Data Collection, MongoDB, Streamlit
+
+=== Domain === 
+
+Social Media
+
+===  python libraries required ===
+
+pandas,streamlit,datetime,time,pymongo,snscrape,image,json 
+These libraries are used in this project and install with latest version available
 
 Project Description:
 Scraping the tweet
